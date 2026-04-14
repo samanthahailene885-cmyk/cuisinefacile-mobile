@@ -1,0 +1,133 @@
+{
+  "nav": {
+    "recipes": "Recettes",
+    "recipeDetail": "Détail",
+    "cart": "Panier",
+    "checkout": "Livraison",
+    "orders": "Mes commandes",
+    "orderDetail": "Détails",
+    "home": "Accueil",
+    "categories": "Les catégories",
+    "login": "Connexion",
+    "notifications": "Notifications"
+  },
+  "drawer": {
+    "accountSection": "MON COMPTE",
+    "appSection": "APPLICATION",
+    "profile": "Mon profil",
+    "notifications": "Notifications",
+    "myCart": "Mon panier",
+    "myOrders": "Mes commandes",
+    "home": "Accueil",
+    "categories": "Les catégories",
+    "recipes": "Les recettes"
+  },
+  "language": {
+    "title": "Langue",
+    "fr": "Français",
+    "en": "English",
+    "es": "Español"
+  },
+  "homeMobile": {
+    "heroTitle": "Box CuisineFacile",
+    "heroSubtitle": "Découvre et commande une recette",
+    "sectionTitle": "Box CuisineFacile ({{count}})",
+    "ingredientsLabel": "Ingrédients",
+    "preparationLabel": "Préparation",
+    "orderRecipe": "Commander une recette"
+  },
+  "recipesMobile": {
+    "loading": "Chargement...",
+    "errorTitle": "Erreur",
+    "retry": "Réessayer",
+    "bannerTitle": "Box CuisineFacile",
+    "bannerSubtitle": "Découvre nos recettes",
+    "searchPlaceholder": "Rechercher une recette...",
+    "categories": {
+      "all": "Toutes",
+      "boissons": "Boissons",
+      "caloriesSmart": "Calories Smart",
+      "africaines": "Africaines",
+      "flexitariennes": "Flexitariennes",
+      "rapides": "Rapides"
+    }
+  },
+  "recipeDetailMobile": {
+    "loading": "Chargement...",
+    "errorTitle": "Erreur",
+    "notFound": "Recette introuvable",
+    "retry": "Réessayer",
+    "cartAlertTitle": "Panier",
+    "addedToCart": "Ajouté au panier.",
+    "pricePerPerson": "{{amount}} FCFA / personne",
+    "customizeKicker": "PERSONNALISEZ VOTRE BOX SELON VOS ENVIES",
+    "peopleCount": "NOMBRE DE PERSONNES :",
+    "recipesCount": "NOMBRE DE RECETTE :",
+    "basePrice": "Prix de base",
+    "personalizedTotal": "TOTAL PERSONNALISÉ",
+    "addToCart": "Ajouter au panier",
+    "ingredientsTitle": "Ingrédients :",
+    "noIngredients": "Aucun ingrédient",
+    "addExtraIngredients": "Ajouter des ingrédients supplémentaires",
+    "preparationTitle": "Préparation",
+    "noSteps": "Aucune étape",
+    "step": "Étape {{number}}",
+    "orderRecipe": "Commander une recette"
+  },
+  "cartMobile": {
+    "loading": "Chargement...",
+    "title": "Panier",
+    "refresh": "Rafraîchir",
+    "loginInfo": "Connecte-toi pour sauvegarder et retrouver ton panier sur un autre téléphone.",
+    "empty": "Ton panier est vide.",
+    "total": "Total: {{total}} FCFA",
+    "clear": "Vider",
+    "checkout": "Commander"
+  },
+  "checkoutMobile": {
+    "title": "Livraison",
+    "subtitle": "Saisis ton adresse pour finaliser ta commande.",
+    "payment": {
+      "title": "Paiement",
+      "body": "Paiement à la livraison."
+    },
+    "fields": {
+      "address": "Adresse"
+    },
+    "placeholders": {
+      "address": "Adresse de livraison"
+    },
+    "summary": {
+      "subtotal": "Sous-total",
+      "delivery": "Livraison",
+      "total": "Total"
+    },
+    "submit": "Passer commande",
+    "alerts": {
+      "loginRequiredTitle": "Connexion requise",
+      "loginRequiredBody": "Connecte-toi pour passer commande.",
+      "emptyCartTitle": "Panier vide",
+      "emptyCartBody": "Ajoute au moins une recette.",
+      "addressRequiredTitle": "Adresse requise",
+      "addressRequiredBody": "Saisis ton adresse de livraison.",
+      "errorTitle": "Erreur",
+      "errorFallback": "Impossible de créer la commande"
+    }
+  },
+  "successMobile": {
+    "title": "C’est validé !",
+    "subtitle": "Merci pour votre confiance.",
+    "downloadPdf": "Télécharger en PDF",
+    "backToCart": "Retour au panier",
+    "viewOrders": "Voir mes commandes",
+    "pdf": {
+      "title": "PDF",
+      "noOrder": "Aucune commande à exporter (payload manquant).",
+      "popupBlocked": "Pop-up bloquée. Autorise les pop-ups puis réessaie.",
+      "sharingUnavailable": "Le partage n'est pas disponible sur cet appareil.",
+      "installHelp": "Pour activer le PDF sur mobile, installe 'expo-print' et 'expo-sharing' puis relance l'app.",
+      "errorLabel": "Erreur",
+      "unknownError": "inconnue"
+    }
+  }
+}

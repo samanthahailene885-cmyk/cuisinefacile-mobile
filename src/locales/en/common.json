@@ -1,0 +1,133 @@
+{
+  "nav": {
+    "recipes": "Recipes",
+    "recipeDetail": "Detail",
+    "cart": "Cart",
+    "checkout": "Delivery",
+    "orders": "My orders",
+    "orderDetail": "Details",
+    "home": "Home",
+    "categories": "Categories",
+    "login": "Sign in",
+    "notifications": "Notifications"
+  },
+  "drawer": {
+    "accountSection": "MY ACCOUNT",
+    "appSection": "APPLICATION",
+    "profile": "My profile",
+    "notifications": "Notifications",
+    "myCart": "My cart",
+    "myOrders": "My orders",
+    "home": "Home",
+    "categories": "Categories",
+    "recipes": "Recipes"
+  },
+  "language": {
+    "title": "Language",
+    "fr": "Français",
+    "en": "English",
+    "es": "Español"
+  },
+  "homeMobile": {
+    "heroTitle": "CuisineFacile Box",
+    "heroSubtitle": "Discover and order a recipe",
+    "sectionTitle": "CuisineFacile Box ({{count}})",
+    "ingredientsLabel": "Ingredients",
+    "preparationLabel": "Preparation",
+    "orderRecipe": "Order a recipe"
+  },
+  "recipesMobile": {
+    "loading": "Loading...",
+    "errorTitle": "Error",
+    "retry": "Try again",
+    "bannerTitle": "CuisineFacile Box",
+    "bannerSubtitle": "Discover our recipes",
+    "searchPlaceholder": "Search a recipe...",
+    "categories": {
+      "all": "All",
+      "boissons": "Drinks",
+      "caloriesSmart": "Calories Smart",
+      "africaines": "African",
+      "flexitariennes": "Flexitarian",
+      "rapides": "Quick"
+    }
+  },
+  "recipeDetailMobile": {
+    "loading": "Loading...",
+    "errorTitle": "Error",
+    "notFound": "Recipe not found",
+    "retry": "Try again",
+    "cartAlertTitle": "Cart",
+    "addedToCart": "Added to cart.",
+    "pricePerPerson": "{{amount}} FCFA / person",
+    "customizeKicker": "CUSTOMIZE YOUR BOX AS YOU LIKE",
+    "peopleCount": "NUMBER OF PEOPLE:",
+    "recipesCount": "NUMBER OF RECIPES:",
+    "basePrice": "Base price",
+    "personalizedTotal": "CUSTOM TOTAL",
+    "addToCart": "Add to cart",
+    "ingredientsTitle": "Ingredients:",
+    "noIngredients": "No ingredients",
+    "addExtraIngredients": "Add extra ingredients",
+    "preparationTitle": "Preparation",
+    "noSteps": "No steps",
+    "step": "Step {{number}}",
+    "orderRecipe": "Order a recipe"
+  },
+  "cartMobile": {
+    "loading": "Loading...",
+    "title": "Cart",
+    "refresh": "Refresh",
+    "loginInfo": "Sign in to save and retrieve your cart on another phone.",
+    "empty": "Your cart is empty.",
+    "total": "Total: {{total}} FCFA",
+    "clear": "Clear",
+    "checkout": "Checkout"
+  },
+  "checkoutMobile": {
+    "title": "Delivery",
+    "subtitle": "Enter your address to complete your order.",
+    "payment": {
+      "title": "Payment",
+      "body": "Pay on delivery."
+    },
+    "fields": {
+      "address": "Address"
+    },
+    "placeholders": {
+      "address": "Delivery address"
+    },
+    "summary": {
+      "subtotal": "Subtotal",
+      "delivery": "Delivery",
+      "total": "Total"
+    },
+    "submit": "Place order",
+    "alerts": {
+      "loginRequiredTitle": "Sign in required",
+      "loginRequiredBody": "Sign in to place an order.",
+      "emptyCartTitle": "Empty cart",
+      "emptyCartBody": "Add at least one recipe.",
+      "addressRequiredTitle": "Address required",
+      "addressRequiredBody": "Enter your delivery address.",
+      "errorTitle": "Error",
+      "errorFallback": "Unable to create the order"
+    }
+  },
+  "successMobile": {
+    "title": "Confirmed!",
+    "subtitle": "Thank you for your trust.",
+    "downloadPdf": "Download PDF",
+    "backToCart": "Back to cart",
+    "viewOrders": "View my orders",
+    "pdf": {
+      "title": "PDF",
+      "noOrder": "No order to export (missing payload).",
+      "popupBlocked": "Pop-up blocked. Allow pop-ups and try again.",
+      "sharingUnavailable": "Sharing is not available on this device.",
+      "installHelp": "To enable PDF on mobile, install 'expo-print' and 'expo-sharing' then restart the app.",
+      "errorLabel": "Error",
+      "unknownError": "unknown"
+    }
+  }
+}
